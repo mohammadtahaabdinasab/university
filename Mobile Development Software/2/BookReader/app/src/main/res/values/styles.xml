@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BookReader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryBlue</item>
+        <item name="colorPrimaryVariant">@color/primaryBlue</item>
+        <item name="colorOnPrimary">@color/cardWhite</item>
+        <item name="android:statusBarColor">@color/primaryBlue</item>
+        <item name="android:navigationBarColor">@color/cardWhite</item>
+        <item name="android:windowBackground">@color/bgLight</item>
+    </style>
+</resources>
